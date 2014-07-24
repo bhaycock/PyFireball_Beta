@@ -1,0 +1,21 @@
+Tutorials required:
+1) Read in a supercell directory to PyFireball
+2) DOS plotting
+3) visualizing specific atoms, neighbours, friends, etc.
+4) learn about neighbours
+5) clustering
+6) varience
+7) a bit about the atom class
+8) a bit about the supercell class
+9) a bit about the DOS class
+10) working with XSF files
+11) running a DOS calculation
+12) visualize a supercell
+13) compute ztot
+14) a bit about HOMO and LUMO
+15) editing fireball.in
+16) Choosing the LE supercells
+17) Easily (but maybe not quickly) generate summary stats, plots and details of a directory-of-supercells
+18) Generate an optical run
+19) generate a charge-density calculation
+X) Applying scikit-learn to your data
